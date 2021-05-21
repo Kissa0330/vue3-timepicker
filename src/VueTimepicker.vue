@@ -2328,7 +2328,7 @@ export default {
 .vue__time-picker .dropdown ul li:not([disabled]).active,
 .vue__time-picker .dropdown ul li:not([disabled]).active:hover,
 .vue__time-picker .dropdown ul li:not([disabled]).active:focus {
-  background: #41B883;
+  background: #6AB2FA;
   color: #fff;
 }
 
